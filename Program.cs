@@ -1,6 +1,4 @@
-﻿using System.Linq;
-
-namespace BilibiliBatchBlock
+﻿namespace BilibiliBatchBlock
 {
     internal class Program
     {
